@@ -1,0 +1,149 @@
+PODS:
+  - AFNetworking (2.5.4):
+    - AFNetworking/NSURLConnection (= 2.5.4)
+    - AFNetworking/NSURLSession (= 2.5.4)
+    - AFNetworking/Reachability (= 2.5.4)
+    - AFNetworking/Security (= 2.5.4)
+    - AFNetworking/Serialization (= 2.5.4)
+    - AFNetworking/UIKit (= 2.5.4)
+  - AFNetworking/NSURLConnection (2.5.4):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.5.4):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.5.4)
+  - AFNetworking/Security (2.5.4)
+  - AFNetworking/Serialization (2.5.4)
+  - AFNetworking/UIKit (2.5.4):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - Aspects (1.4.1)
+  - AsyncDisplayKit (1.2):
+    - AsyncDisplayKit/ASDealloc2MainObject (= 1.2)
+  - AsyncDisplayKit/ASDealloc2MainObject (1.2)
+  - BlocksKit (2.2.5):
+    - BlocksKit/All (= 2.2.5)
+  - BlocksKit/All (2.2.5):
+    - BlocksKit/Core
+    - BlocksKit/DynamicDelegate
+    - BlocksKit/MessageUI
+    - BlocksKit/UIKit
+  - BlocksKit/Core (2.2.5)
+  - BlocksKit/DynamicDelegate (2.2.5)
+  - BlocksKit/MessageUI (2.2.5):
+    - BlocksKit/Core
+    - BlocksKit/DynamicDelegate
+  - BlocksKit/UIKit (2.2.5):
+    - BlocksKit/Core
+    - BlocksKit/DynamicDelegate
+  - ChameleonFramework (1.2.0)
+  - FLEX (2.0.3)
+  - JHChainableAnimations (1.3.0)
+  - JTSImageViewController (1.4)
+  - KVOController (1.0.3)
+  - KZAsserts (1.0)
+  - KZBootstrap (0.5.5):
+    - KZBootstrap/Core (= 0.5.5)
+  - KZBootstrap/Core (0.5.5):
+    - KZAsserts (~> 1.0)
+  - libextobjc (0.4.1):
+    - libextobjc/EXTADT (= 0.4.1)
+    - libextobjc/EXTConcreteProtocol (= 0.4.1)
+    - libextobjc/EXTKeyPathCoding (= 0.4.1)
+    - libextobjc/EXTNil (= 0.4.1)
+    - libextobjc/EXTSafeCategory (= 0.4.1)
+    - libextobjc/EXTScope (= 0.4.1)
+    - libextobjc/EXTSelectorChecking (= 0.4.1)
+    - libextobjc/EXTSynthesize (= 0.4.1)
+    - libextobjc/NSInvocation+EXT (= 0.4.1)
+    - libextobjc/NSMethodSignature+EXT (= 0.4.1)
+    - libextobjc/RuntimeExtensions (= 0.4.1)
+    - libextobjc/UmbrellaHeader (= 0.4.1)
+  - libextobjc/EXTADT (0.4.1):
+    - libextobjc/RuntimeExtensions
+  - libextobjc/EXTConcreteProtocol (0.4.1):
+    - libextobjc/RuntimeExtensions
+  - libextobjc/EXTKeyPathCoding (0.4.1):
+    - libextobjc/RuntimeExtensions
+  - libextobjc/EXTNil (0.4.1):
+    - libextobjc/RuntimeExtensions
+  - libextobjc/EXTSafeCategory (0.4.1):
+    - libextobjc/RuntimeExtensions
+  - libextobjc/EXTScope (0.4.1):
+    - libextobjc/RuntimeExtensions
+  - libextobjc/EXTSelectorChecking (0.4.1):
+    - libextobjc/RuntimeExtensions
+  - libextobjc/EXTSynthesize (0.4.1):
+    - libextobjc/RuntimeExtensions
+  - libextobjc/NSInvocation+EXT (0.4.1):
+    - libextobjc/RuntimeExtensions
+  - libextobjc/NSMethodSignature+EXT (0.4.1):
+    - libextobjc/RuntimeExtensions
+  - libextobjc/RuntimeExtensions (0.4.1)
+  - libextobjc/UmbrellaHeader (0.4.1)
+  - Mantle (2.0.2):
+    - Mantle/extobjc (= 2.0.2)
+  - Mantle/extobjc (2.0.2)
+  - Masonry (0.6.1)
+  - NSLogger (1.5.1):
+    - NSLogger/Standard (= 1.5.1)
+  - NSLogger/Standard (1.5.1)
+  - ObjectiveSugar (1.1.0)
+  - pop (1.0.7)
+  - Reachability (3.2)
+  - ReactiveCocoa (2.5):
+    - ReactiveCocoa/UI (= 2.5)
+  - ReactiveCocoa/Core (2.5):
+    - ReactiveCocoa/no-arc
+  - ReactiveCocoa/no-arc (2.5)
+  - ReactiveCocoa/UI (2.5):
+    - ReactiveCocoa/Core
+  - Shimmer (1.0.2)
+
+DEPENDENCIES:
+  - AFNetworking
+  - Aspects
+  - AsyncDisplayKit
+  - BlocksKit
+  - ChameleonFramework
+  - FLEX (~> 2.0)
+  - JHChainableAnimations
+  - JTSImageViewController
+  - KVOController
+  - KZBootstrap
+  - libextobjc
+  - Mantle
+  - Masonry
+  - NSLogger
+  - ObjectiveSugar
+  - pop
+  - Reachability
+  - ReactiveCocoa
+  - Shimmer
+
+SPEC CHECKSUMS:
+  AFNetworking: 05edc0ac4c4c8cf57bcf4b84be5b0744b6d8e71e
+  Aspects: 7595ba96a6727a58ebcbfc954497fc5d2fdde546
+  AsyncDisplayKit: 32d5b9112b8c1b6644b54429e0cda4fbf6563781
+  BlocksKit: 7f422b971407001178d181a43b99014ea2591fe6
+  ChameleonFramework: 4d6bf87fcaee176f487176cdccc4229637ec97f0
+  FLEX: 4f04fe0b0594163c00879e2b3db888e5ae37c8d5
+  JHChainableAnimations: 22085fcb04ca87349e584573558e637f659fd769
+  JTSImageViewController: 6a367b144e257db02cdfacdba78d684377d3777b
+  KVOController: 9fd8f0343670994e4b6f9f0b31f5a45663f3e1cf
+  KZAsserts: 6e613b569a33582dc94cf7a1f34a2c6d870982a7
+  KZBootstrap: f4dbeacb8d925129280dcfe83a2167d9cfc45803
+  libextobjc: a650fc1bf489a3d3a9bc2e621efa3e1006fc5471
+  Mantle: 967fd31ea0220890b2e76589198996b534bb3fb1
+  Masonry: 4972309f2f134de9dd312f4dc4a21359b50e6caa
+  NSLogger: 5ed223a2436df96244e033be750656dacdeec034
+  ObjectiveSugar: a6a25f23d657c19df0a0b972466d5b5ca9f5295c
+  pop: 628ffc631644601567ee8bfaaaea493ebd7d0923
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+  ReactiveCocoa: e2db045570aa97c695e7aa97c2bcab222ae51f4a
+  Shimmer: c5374be1c2b0c9e292fb05b339a513cf291cac86
+
+COCOAPODS: 0.37.2
