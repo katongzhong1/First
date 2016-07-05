@@ -24,6 +24,7 @@
                                               attributes:attributes
                                                  context:nil].size;
     return contentSize;
+    
 }
 
 @end
